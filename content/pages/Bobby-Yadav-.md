@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Section subt
+    subtitle: 'Bobby Yadav '
     text: >
       ![](/images/1000212869.jpg)There are many variations of passages of Lorem
       Ipsum available, but the majority have suffered alteration in some form,
